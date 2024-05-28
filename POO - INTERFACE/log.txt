@@ -1,0 +1,9 @@
+2024-05-27T20:08:48.2746288 DEBUG Esta é uma mensagem de debug
+2024-05-27T20:08:48.3527558 WARNING Esta é uma mensagem de aviso
+2024-05-27T20:08:48.3683801 ERROR Esta é uma mensagem de erro
+2024-05-27T20:13:11.4144487 DEBUG Esta é uma mensagem de debug
+2024-05-27T20:13:11.4769545 WARNING Esta é uma mensagem de aviso
+2024-05-27T20:13:11.4769545 ERROR Esta é uma mensagem de erro
+2024-05-27T21:15:43.4754874 DEBUG Esta é uma mensagem de debug
+2024-05-27T21:15:43.4911197 WARNING Esta é uma mensagem de aviso
+2024-05-27T21:15:43.4911197 ERROR Esta é uma mensagem de erro
